@@ -1,5 +1,6 @@
 {
   "name": "mwBarcodeScanner",
+  "version": "0.1.0",
   "authors": [
     "Mikael von Ketelhodt <miki@rbgapps.com>",
     "Konrad Hinze <konrad@datatracker.com>"
