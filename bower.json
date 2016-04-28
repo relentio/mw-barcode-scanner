@@ -8,7 +8,7 @@
   "main": "index.js",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/relentio/mw-barcode-scanner",
   "ignore": [
     "**/.*",
     "node_modules",
