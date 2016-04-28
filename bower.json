@@ -6,7 +6,7 @@
     "Konrad Hinze <konrad@datatracker.com>"
   ],
   "description": "Manatee Works Barcode Scanner Wrapper (Service and Provider)",
-  "main": "src/main.js",
+  "main": "src/mw-barcode-scanner.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/relentio/mw-barcode-scanner",
