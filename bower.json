@@ -1,0 +1,19 @@
+{
+  "name": "mwBarcodeScanner",
+  "authors": [
+    "Mikael von Ketelhodt <miki@rbgapps.com>",
+    "Konrad Hinze <konrad@datatracker.com>"
+  ],
+  "description": "Manatee Works Barcode Scanner Wrapper (Service and Provider)",
+  "main": "index.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
